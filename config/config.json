@@ -1,1 +1,1 @@
-{"site_name":"vachanmn.tech","content_types":[],"initialization_date":"2026-01-10 01:32:13.094794 +0530 IST m=+13.786209251"}
+{"site_name":"vachanmn.tech","content_types":[{"id":"802d5f61-b46d-4e10-b492-6ad70cd705bf","name":"Test Type","slug":"test-type","fields":[{"field_name":"testField","field_type":"text","is_required":false}]}],"initialization_date":"2026-01-10 01:32:13.094794 +0530 IST m=+13.786209251"}
